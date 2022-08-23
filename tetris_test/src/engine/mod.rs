@@ -1,4 +1,4 @@
-
+#[allow(dead_code)]
 struct Engine;
 
 impl Engine {
